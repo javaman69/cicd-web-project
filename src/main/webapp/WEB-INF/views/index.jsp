@@ -9,6 +9,8 @@
     <br>    <hr>
     <h3>Version: 1.0.4</h3>
     <br>    <hr>
+    <h3>Version: 1.0.5</h3>
+    <br>    <hr>
     <h3>It's working on Tomcat server(v9.0.83)</h3>
 
 </body>
